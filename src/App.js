@@ -29,7 +29,7 @@ function App() {
     },
     {
       name: "Sports Item",
-      price: "$120.00",
+      price: "$140.00",
       addedToCart: false,
     },  
   ]);
